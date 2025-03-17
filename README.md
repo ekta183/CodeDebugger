@@ -1,7 +1,8 @@
 # 🚀 CodeDebugger
 
 ## 📖 Overview
-CodeDebugger is a real-time debugging tool that allows developers to collaborate and debug code together efficiently.
+AutoCodeAI is a real-time debugging tool that allows developers to collaborate and debug code together efficiently.
+It uses AI to debug code in real time whereas learning from past errors to warn users beforehand.
 
 ## 🎯 Features
 - 🐞 Real-time debugging
